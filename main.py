@@ -1,7 +1,7 @@
 import sys
 import random
 from PyQt5.QtGui import QPainter, QColor
-from PyQt5 import uic  # Импортируем uic git remote add user_a_at_b https://qwe-png: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/https://github.com/qwe-png/moskva-ksenofontov.git
+from PyQt5 import uic  # Импотируем uic git remote add user_a_at_b https://qwe-png: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/https://github.com/qwe-png/moskva-ksenofontov.git
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
 
